@@ -25,29 +25,28 @@
 
 ## 주요 기능
 ### 1. 알람: 여러 개의 알람을 생성하고 관리할 수 있다.
-![alarm](img/가위바위보.gif)
+![alarm](img/알람생성.gif)
 
 ### 2. 미션: 알람이 작동하면 랜덤 미션이 시작되고 조건을 달성해야만 알람이 종료된다.
 #### (1) 사진 찍기
 
-![mission_1](deliverables/imgs/주요기능_2.png)
+![mission_1](img/랜덤사물찍기미션.gif)
 #### (2) 가위바위보
 
-![mission_2](deliverables/imgs/주요기능_3.png)
+![mission_2](img/가위바위보.gif)
 #### (3) 수학 문제
 
-![mission_3](deliverables/imgs/주요기능_4.png)
+![mission_3](img/수학문제미션.gif)
 #### (4) 카드 게임
 
-![mission_4](deliverables/imgs/주요기능_5.png)
+![mission_4](img/카드미션.gif)
 
 ## 개발 일정
 ![plan](deliverables/imgs/개발일정.png)
 
 
 ## 역할
-#### Frontend: 이하연, 박봉현, 이아름
-#### Android: 이기호, 임찬규
+#### App: 이하연, 박봉현, 이아름
 #### AI: 임찬규
 
 ## 코드 컨벤션
